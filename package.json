@@ -1,6 +1,6 @@
 {
   "name": "csv-parser-bbc",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "CSV Parser - A javascript challenge",
   "main": "./lib/index.js",
   "repository": {
