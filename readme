@@ -1,2 +1,14 @@
 Developed as a node.js / JavaScript challenge for "Morning Train Technologies ApS"
 
+USAGE::
+install package with npm
+	
+	> npm i csv-parser-bbc
+
+require in nodejs application 
+
+	var csv = require('csv-parse-bbc')
+
+parse a csv file to json with
+
+	csv.parse(people.csv)
