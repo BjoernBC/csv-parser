@@ -1,0 +1,11 @@
+{
+  "name": "csv-parser",
+  "version": "1.0.0",
+  "description": "CSV Parser - A javascript challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bjørn Christensen <bbc55755@gmail.com> (https://www.linkedin.com/in/bbchristensen/)",
+  "license": "ISC"
+}
