@@ -7,7 +7,7 @@ install package with npm
 
 require in nodejs application 
 
-	var csv = require('csv-parse-bbc')
+	var csv = require('csv-parser-bbc')
 
 parse a csv file to json with
 
